@@ -36,7 +36,7 @@ const AddComment = (props) => {
         headers: {
           "Content-type": "application/json",
           Authorization:
-            "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2M2U1MGZkNGEyNDc4ZDAwMTNhMDU4NDgiLCJpYXQiOjE2NzYzMDk1MDEsImV4cCI6MTY3NzUxOTEwMX0.crpkPToKGa3g47lqhNlgGOxUXwKbOxxjL-41XvAxvz0",
+            "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2M2U1MGZkNGEyNDc4ZDAwMTNhMDU4NDgiLCJpYXQiOjE2NzYzOTkyODUsImV4cCI6MTY3NzYwODg4NX0.PDz1lsqfZ3Vo4jo4jO3itIo6DkK1eHLXngCQOjhAOIo",
         },
       })
       if (response.ok) {
